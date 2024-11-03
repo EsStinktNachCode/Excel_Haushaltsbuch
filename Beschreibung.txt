@@ -3,3 +3,8 @@ Beschreibung
 - wenn Datei geöffnet wird öffnet sich der aktuelle Monat in dem man seine Ausgaben eintragen kann
 - Ausgaben werden automatisch über ein UI eingetragen, das sich ebenfalls beim öffnen öffnet
 - man kann dann eine andere Maske öffnen in welcher man seine Einnahmen eintragen kann (wenn man in einer Eingabemaske einnahmen durch Elter auswählt, wird automatisch der Mietbetrag abgezogen der in der ersten Folie angegeben ist
+
+
+Dev Beschreibung
+
+- code refacrtoren und Testen
