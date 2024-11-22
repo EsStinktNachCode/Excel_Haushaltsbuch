@@ -7,4 +7,8 @@ Beschreibung
 
 Dev Beschreibung
 
-- code refacrtoren und Testen
+- eine Prozedur die das Gesamte workbook kopiert und einfach im neuen workbook die werte aus den einnahmen und ausgaben löscht
+
+Status(damit ich es nicht vergesse): Wollte das einmal testen ob das richtig kopiert wird (muss aber noch das daten löschen einfügen glaube)
+
+- Kontostand noch implementieren
